@@ -1,4 +1,12 @@
-   {
-     "app": "grobPC",
-     "licenses": []
-   }
+{
+  "app": "grobyq",
+  "updated": "2026-09-26T05:11:36Z",
+  "licenses": [
+    {
+      "hwid": "16CE49A5-2EDC03AD-4B2C0E97-D75E23E2",
+      "note": "mitzu LLC",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u002216CE49A5-2EDC03AD-4B2C0E97-D75E23E2\u0022,\u0022issued\u0022:1790399495,\u0022purchase\u0022:\u00222026-09-26\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "ptJK/J1AQ/M7eRG/b7bxmBviVYD0gEcZxHuoibJDFirOkeO0BIA8GjzO0xwkDuCQcE6xhDL7J54FObSFuoKc0Q=="
+    }
+  ]
+}

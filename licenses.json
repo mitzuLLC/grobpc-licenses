@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-09-28T17:04:20Z",
+  "updated": "2026-09-28T19:31:39Z",
   "licenses": [
     {
       "hwid": "16CE49A5-2EDC03AD-4B2C0E97-D75E23E2",
@@ -19,6 +19,12 @@
       "note": "LV21",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-12-27T23:59:59Z\u0022,\u0022hwid\u0022:\u00225B0D2408-A1911F8B-DDB53D84-CFECD7B0\u0022,\u0022issued\u0022:1790615059,\u0022purchase\u0022:\u00222026-09-28\u0022,\u0022ttl_hours\u0022:48}",
       "token": "mPIpNFmsJQc\u002BUsLkyiQGtY8mYY2tNU3QK5wLP5Vfmad1iTgdMC0JSK0o\u002B\u002B0yH73PWbS\u002B3VAY2q0kGl6S2AGRzQ=="
+    },
+    {
+      "hwid": "7779536B-0123891D-7B0DB637-CF10EF94",
+      "note": "tsag14",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-12-27T23:59:59Z\u0022,\u0022hwid\u0022:\u00227779536B-0123891D-7B0DB637-CF10EF94\u0022,\u0022issued\u0022:1790623898,\u0022purchase\u0022:\u00222026-09-28\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "5qVT49a8OCFWEPcusMbm5CvANgMYpGA\u002BDIOdM05aossi0XyaCrHDkSZiKKMh1MgxryNUy9M/ZiMPmKp8TG/RGQ=="
     }
   ]
 }

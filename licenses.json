@@ -1,13 +1,7 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-01T02:42:53Z",
+  "updated": "2026-10-01T02:43:07Z",
   "licenses": [
-    {
-      "hwid": "246F0B65-F563E995-3FA32D6D-F4FDF534",
-      "note": "Valentino",
-      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u0022246F0B65-F563E995-3FA32D6D-F4FDF534\u0022,\u0022issued\u0022:1790442288,\u0022purchase\u0022:\u00222026-09-26\u0022,\u0022ttl_hours\u0022:48}",
-      "token": "mJEwUMxEGqrm3cDCOcByXWAkxJvkUpR6bly1zJaHVc95oRCw0JCZd8lVlPkGhQnUUAdj1Tr1b8h2TRocCRSJrw=="
-    },
     {
       "hwid": "5B0D2408-A1911F8B-DDB53D84-CFECD7B0",
       "note": "LV21",
@@ -25,6 +19,12 @@
       "note": "mitzu",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u002277262E48-FB2A26FA-998D2D31-E90B7037\u0022,\u0022issued\u0022:1790822573,\u0022purchase\u0022:\u00222026-10-01\u0022,\u0022ttl_hours\u0022:48}",
       "token": "ts6M1kxhOIVjNUyzkk\u002B7KnJkNtIRK5xYkDrClb5PoVc2uNEt0VEz8eODU9SOJ/5VUU1N6y0ZEhIjLhrH7dBzMg=="
+    },
+    {
+      "hwid": "246F0B65-F563E995-3FA32D6D-F4FDF534",
+      "note": "Valentino",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-12-30T23:59:59Z\u0022,\u0022hwid\u0022:\u0022246F0B65-F563E995-3FA32D6D-F4FDF534\u0022,\u0022issued\u0022:1790822587,\u0022purchase\u0022:\u00222026-10-01\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "JfVIkoI7HShp/QTtArU5W32lJTQIzhMz0GpNdWOBFdaXybasyaKi/\u002BQGYIQ6hQPU4RrahvMZULKF77AxFaiQ8Q=="
     }
   ]
 }

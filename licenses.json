@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-13T22:49:52Z",
+  "updated": "2026-10-13T22:49:57Z",
   "licenses": [
     {
       "hwid": "5B0D2408-A1911F8B-DDB53D84-CFECD7B0",
@@ -19,12 +19,6 @@
       "note": "Valentino",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-12-30T23:59:59Z\u0022,\u0022hwid\u0022:\u0022246F0B65-F563E995-3FA32D6D-F4FDF534\u0022,\u0022issued\u0022:1790822587,\u0022purchase\u0022:\u00222026-10-01\u0022,\u0022ttl_hours\u0022:48}",
       "token": "JfVIkoI7HShp/QTtArU5W32lJTQIzhMz0GpNdWOBFdaXybasyaKi/\u002BQGYIQ6hQPU4RrahvMZULKF77AxFaiQ8Q=="
-    },
-    {
-      "hwid": "00C8E579-C6F0C822-579AA4CA-456E9D3B",
-      "note": "\u043F\u0430\u0440\u043A\u0435\u0440",
-      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-11-11T23:59:59Z\u0022,\u0022hwid\u0022:\u002200C8E579-C6F0C822-579AA4CA-456E9D3B\u0022,\u0022issued\u0022:1791829874,\u0022purchase\u0022:\u00222026-10-12\u0022,\u0022ttl_hours\u0022:48}",
-      "token": "CP8BGafX1tOGgxFia4dReMvsKUPwhR4daVkMBoM5Qb0Qu0MvTxEumYCcPpE2a0gSTLAJxsIMK5AW7FgPJwkWEA=="
     },
     {
       "hwid": "24FA287B-319F6672-D1715EBB-6CE48A90",

@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-14T21:35:39Z",
+  "updated": "2026-10-14T22:29:10Z",
   "licenses": [
     {
       "hwid": "5B0D2408-A1911F8B-DDB53D84-CFECD7B0",
@@ -25,6 +25,12 @@
       "note": "defzor",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u002224FA3AC4-A59E54F0-AEB70E2A-3592056C\u0022,\u0022issued\u0022:1792013739,\u0022purchase\u0022:\u00222026-10-14\u0022,\u0022ttl_hours\u0022:48}",
       "token": "GnEbXiH/BJH\u002B1G2IANmv3Nhe4ldFHxKVdo3KvsljhDgPdTWH/0DTYjxs8aFFUkEOGtkLMhsCEjT\u002BH9p9FqYLPQ=="
+    },
+    {
+      "hwid": "8C7277E1-E8866717-4A401303-59B1DC84",
+      "note": "igor\u0060",
+      "payload": "{\u0022anyos\u0022:true,\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u00228C7277E1-E8866717-4A401303-59B1DC84\u0022,\u0022issued\u0022:1792016950,\u0022purchase\u0022:\u00222026-10-14\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "OsuXmrVbzcfKNQjit1SDlrMUoWuo1\u002BeV\u002BxapSh3hvSICBLxbQJgsgcT\u002B4P8GZaZe7WPDb5X8DnPTvLDRnI8nnQ=="
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-15T02:09:01Z",
+  "updated": "2026-10-15T22:45:45Z",
   "licenses": [
     {
       "hwid": "5B0D2408-A1911F8B-DDB53D84-CFECD7B0",
@@ -37,6 +37,12 @@
       "note": "TSAGA",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-11-14T23:59:59Z\u0022,\u0022hwid\u0022:\u00229FC344BC-AE5AF700-CFC6D2A1-E9AFA5B9\u0022,\u0022issued\u0022:1792030141,\u0022purchase\u0022:\u00222026-10-15\u0022,\u0022ttl_hours\u0022:48}",
       "token": "d8FkHP9Vn0mD1BNHxqB/po9v8\u002BLhuLcP17a3vVCMcZSjd4MPqDEu3bn8jo1kW3/swn1zAg/NFTs6cS/X6igWvw=="
+    },
+    {
+      "hwid": "FB7CC24A-3EF62DC3-1379FF39-283D4110",
+      "note": "Vika tory",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222027-01-14T23:59:59Z\u0022,\u0022hwid\u0022:\u0022FB7CC24A-3EF62DC3-1379FF39-283D4110\u0022,\u0022issued\u0022:1792104344,\u0022purchase\u0022:\u00222026-10-15\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "7JoAmIOcJqLNMWeelUWj4Lm6RYvPSWtPANNnLXYQPImfZSjtFN0kx6iAjDP5v7pe4okiXvNw2kmc05CMUNxd2Q=="
     }
   ]
 }

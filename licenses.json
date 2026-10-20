@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-20T15:08:16Z",
+  "updated": "2026-10-20T16:52:46Z",
   "licenses": [
     {
       "hwid": "77262E48-FB2A26FA-998D2D31-E90B7037",
@@ -13,6 +13,12 @@
       "note": "tsaga 9800",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-11-11T23:59:59Z\u0022,\u0022hwid\u0022:\u002224FA287B-319F6672-D1715EBB-6CE48A90\u0022,\u0022issued\u0022:1791837655,\u0022purchase\u0022:\u00222026-10-12\u0022,\u0022ttl_hours\u0022:48}",
       "token": "mhR/9DjSGo3uUDM8RVkpDWjO/YXjesotl796BhPtocpalQP9BXG2mXMuG1LZawUJzJgbsRTgXCrN4z/5IwH5nQ=="
+    },
+    {
+      "hwid": "895F4742-66E32ADA-9F9F874F-F966C462",
+      "note": "\u0437\u0441\u0443",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-11-19T23:59:59Z\u0022,\u0022hwid\u0022:\u0022895F4742-66E32ADA-9F9F874F-F966C462\u0022,\u0022issued\u0022:1792515165,\u0022purchase\u0022:\u00222026-10-20\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "FXm2wuq2KHWBmttC6THEA3\u002Bpmjv2DT6MwGdrbYlJrQSe0B8dm2tIa\u002B9SfD4/nnq/ZKBE6eaAzqvqPF1ZSsTofQ=="
     }
   ]
 }

@@ -1,18 +1,12 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-25T23:01:19Z",
+  "updated": "2026-10-26T00:43:44Z",
   "licenses": [
     {
       "hwid": "77262E48-FB2A26FA-998D2D31-E90B7037",
       "note": "mitzu",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u002277262E48-FB2A26FA-998D2D31-E90B7037\u0022,\u0022issued\u0022:1790822573,\u0022purchase\u0022:\u00222026-10-01\u0022,\u0022ttl_hours\u0022:48}",
       "token": "ts6M1kxhOIVjNUyzkk\u002B7KnJkNtIRK5xYkDrClb5PoVc2uNEt0VEz8eODU9SOJ/5VUU1N6y0ZEhIjLhrH7dBzMg=="
-    },
-    {
-      "hwid": "24FA287B-319F6672-D1715EBB-6CE48A90",
-      "note": "tsaga 9800",
-      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222026-11-11T23:59:59Z\u0022,\u0022hwid\u0022:\u002224FA287B-319F6672-D1715EBB-6CE48A90\u0022,\u0022issued\u0022:1791837655,\u0022purchase\u0022:\u00222026-10-12\u0022,\u0022ttl_hours\u0022:48}",
-      "token": "mhR/9DjSGo3uUDM8RVkpDWjO/YXjesotl796BhPtocpalQP9BXG2mXMuG1LZawUJzJgbsRTgXCrN4z/5IwH5nQ=="
     },
     {
       "hwid": "D5073C3D-B9584824-BD0F8CB6-1935AC92",
@@ -37,6 +31,12 @@
       "note": "ya",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u0022CD83C2CF-CACDC9CA-E384CFBC-52C36094\u0022,\u0022issued\u0022:1792969279,\u0022purchase\u0022:\u00222026-10-25\u0022,\u0022ttl_hours\u0022:48}",
       "token": "tXPnN3wtw9YPCXpiUUt8MslJeJq8JGUQ2ssSaG/X7lytOb6hE8BGHBzMHm1IkHQoG2ClRBWlH7ilShKHltN5Fg=="
+    },
+    {
+      "hwid": "24FA287B-319F6672-D1715EBB-6CE48A90",
+      "note": "tsaga 9800",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u002224FA287B-319F6672-D1715EBB-6CE48A90\u0022,\u0022issued\u0022:1792975424,\u0022purchase\u0022:\u00222026-10-26\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "E4D3Tos1gHIogBm35IyTmUntGxFvCW4Gp\u002BIW5CXgZg5ViLdscaiodqMHuBYquNxwDMND1AJWI3fEeqf0MRIPcQ=="
     }
   ]
 }

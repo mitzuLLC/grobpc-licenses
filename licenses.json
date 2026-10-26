@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-26T00:48:08Z",
+  "updated": "2026-10-26T00:48:23Z",
   "licenses": [
     {
       "hwid": "77262E48-FB2A26FA-998D2D31-E90B7037",
@@ -31,6 +31,12 @@
       "note": "ya",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u0022CD83C2CF-CACDC9CA-E384CFBC-52C36094\u0022,\u0022issued\u0022:1792969279,\u0022purchase\u0022:\u00222026-10-25\u0022,\u0022ttl_hours\u0022:48}",
       "token": "tXPnN3wtw9YPCXpiUUt8MslJeJq8JGUQ2ssSaG/X7lytOb6hE8BGHBzMHm1IkHQoG2ClRBWlH7ilShKHltN5Fg=="
+    },
+    {
+      "hwid": "9FC344BC-AE5AF700-CFC6D2A1-E9AFA5B9",
+      "note": "\u0422\u0441\u0430\u0433\u0430",
+      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u00229FC344BC-AE5AF700-CFC6D2A1-E9AFA5B9\u0022,\u0022issued\u0022:1792975703,\u0022purchase\u0022:\u00222026-10-26\u0022,\u0022ttl_hours\u0022:48}",
+      "token": "pU056fSUV6nNvecqGg0ym6RDEm8wT9NXL2k4F/nBVYU5HfJqWJm5E3vZKhRp\u002B8l3ZO9NlMqwiYmgb5JX1GzSpQ=="
     }
   ]
 }

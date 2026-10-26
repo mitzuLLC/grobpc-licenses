@@ -1,6 +1,6 @@
 {
   "app": "grobyq",
-  "updated": "2026-10-26T11:01:04Z",
+  "updated": "2026-10-26T11:07:08Z",
   "licenses": [
     {
       "hwid": "77262E48-FB2A26FA-998D2D31-E90B7037",
@@ -37,12 +37,6 @@
       "note": "\u0422\u0441\u0430\u0433\u0430",
       "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u0022\u0022,\u0022hwid\u0022:\u00229FC344BC-AE5AF700-CFC6D2A1-E9AFA5B9\u0022,\u0022issued\u0022:1792975703,\u0022purchase\u0022:\u00222026-10-26\u0022,\u0022ttl_hours\u0022:48}",
       "token": "pU056fSUV6nNvecqGg0ym6RDEm8wT9NXL2k4F/nBVYU5HfJqWJm5E3vZKhRp\u002B8l3ZO9NlMqwiYmgb5JX1GzSpQ=="
-    },
-    {
-      "hwid": "79C42699-0A98E6D3-9E32B811-63D81240",
-      "note": "1",
-      "payload": "{\u0022anyos\u0022:true,\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222027-11-25T23:59:59Z\u0022,\u0022hwid\u0022:\u002279C42699-0A98E6D3-9E32B811-63D81240\u0022,\u0022issued\u0022:1793012463,\u0022purchase\u0022:\u00222026-10-26\u0022,\u0022ttl_hours\u0022:48}",
-      "token": "kNdLdEaGEzw2nqh9OGWulHiYW3yt6UZ8lUN\u002Bp\u002BPVE5EHBKFqmSOoIvxnlWQ6Usg8AA\u002BYYwYatYicKJ3EBYpIFg=="
     }
   ]
 }

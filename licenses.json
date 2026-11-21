@@ -1,13 +1,7 @@
 {
   "app": "grobyq",
-  "updated": "2026-11-21T20:29:15Z",
+  "updated": "2026-11-21T20:29:26Z",
   "licenses": [
-    {
-      "hwid": "D5073C3D-B9584824-BD0F8CB6-1935AC92",
-      "note": "LV21",
-      "payload": "{\u0022app_version\u0022:\u00221.0.0\u0022,\u0022expires\u0022:\u00222027-01-23T23:59:59Z\u0022,\u0022hwid\u0022:\u0022D5073C3D-B9584824-BD0F8CB6-1935AC92\u0022,\u0022issued\u0022:1792938020,\u0022purchase\u0022:\u00222026-10-25\u0022,\u0022ttl_hours\u0022:48}",
-      "token": "kwZ2rqoJtxdLY/ppGli8XPjZjYJasy6SEbOd8lJrWngUi8Yp6jzTLYISVndFr0hokBowWhH9U4Y/Ajfy/RolWA=="
-    },
     {
       "hwid": "A54B3570-131CF449-6E80B18F-91D8D8C3",
       "note": "Valentino",
